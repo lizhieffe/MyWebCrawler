@@ -1,4 +1,4 @@
 
-bin/*
+bin/webcrawler/WebCrawlerTask.class
 
-bin/webcrawler/URLQueue.class
+*.class
