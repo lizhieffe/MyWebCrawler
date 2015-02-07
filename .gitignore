@@ -2,3 +2,4 @@
 bin/webcrawler/WebCrawlerTask.class
 
 *.class
+/bin/
